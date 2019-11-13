@@ -16,5 +16,4 @@ Note, that this tuner is just a random search method, but it works quite good. U
 
 `tuner.plot_simply_stats()`
 
-Example plot after tuning:
 ![experiment](example.png)
